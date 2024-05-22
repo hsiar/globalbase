@@ -7,6 +7,7 @@ require (
 	github.com/cloudwego/hertz v0.9.0
 	github.com/emirpasic/gods v1.18.1
 	github.com/golang-module/carbon v1.7.3
+	github.com/henrylee2cn/ameda v1.4.10
 	github.com/hertz-contrib/sse v0.0.5
 	github.com/json-iterator/go v1.1.12
 )
@@ -22,7 +23,6 @@ require (
 	github.com/gobuffalo/packd v0.3.0 // indirect
 	github.com/gobuffalo/packr v1.30.1 // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
-	github.com/henrylee2cn/ameda v1.4.10 // indirect
 	github.com/henrylee2cn/goutil v0.0.0-20210127050712-89660552f6f8 // indirect
 	github.com/joho/godotenv v1.3.0 // indirect
 	github.com/klauspost/cpuid/v2 v2.0.9 // indirect
